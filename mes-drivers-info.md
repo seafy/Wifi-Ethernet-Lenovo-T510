@@ -18,6 +18,8 @@
   Kernel driver in use: iwlwifi
                           
                                      INFO
+//wiki.debian.org/fr/iwlwifi
+
 
 Ajoutez la source "non-free" à votre fichier /etc/apt/sources.list, par exemple :
 
